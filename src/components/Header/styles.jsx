@@ -31,7 +31,7 @@ export const TitleHome = styled.button`
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  @media (max-width: 750px) {
+  @media (max-width: 600px) {
     font-size: 16px;
     margin-bottom: 2rem;
     }
@@ -47,7 +47,7 @@ export const Logo = styled.a`
     border-radius: 5px 50px 50px;
     width: 80px;
     height: 80px;
-    @media (max-width: 750px) {
+    @media (max-width: 600px) {
         width: 40px;
         height: 40px;
         padding-left: 0.5rem;

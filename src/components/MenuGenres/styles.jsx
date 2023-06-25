@@ -20,9 +20,10 @@ export const MenuGenresButton = styled.button`
     gap: 0.5rem;
     margin: 4rem 0 2rem ;
     @media (max-width: 480px) {
+        margin-top: 1rem;
         margin-left:  2rem;
     }
-    @media (max-width: 360px) {
-        margin-left:  0;
+    @media (max-width: 375px) {
+        margin-left:  1rem;
     }
 `;

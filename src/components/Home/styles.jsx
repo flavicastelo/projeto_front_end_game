@@ -47,7 +47,7 @@ export const TitleHome = styled.button`
 
 export const ContainerCards = styled.div`
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   margin: 0 auto;
   flex-wrap: wrap;
   justify-content: space-between;

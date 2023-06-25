@@ -26,7 +26,7 @@ export const ContainerBorder = styled.div`
      
     }
     @media (max-width: 720px) {
-     justify-content: center;
+     /* justify-content: center; */
      
     }
     @media (max-width: 893px) {
